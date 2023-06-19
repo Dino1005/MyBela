@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "919700139583",
+    "project_id": "mybela-9224c",
+    "storage_bucket": "mybela-9224c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:919700139583:android:5888b231c94e93cc00128a",
+        "android_client_info": {
+          "package_name": "com.example.mybela"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "919700139583-4p251kp0o9vlq7vgb0b6j9q84dqnhvtj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM65ad1FKPfW8gwHJ65quQ8KsWtmvp91g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "919700139583-4p251kp0o9vlq7vgb0b6j9q84dqnhvtj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
